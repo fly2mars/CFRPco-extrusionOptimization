@@ -1,8 +1,7 @@
 # CFRPco-extrusionOptimization
 An adaptive matrix material extrusion optimization model for in situ impregnated continuous fiber reinforced 3D printing.
+[![Demo](https://gifs.com/gif/co-extrusion-optimization-79BYJy)](https://youtu.be/DWSipFdgb6I)
 
-<video src="doc/OptimizedExtrusionExampleA.mp4" controls="controls" width="500" height="300">
-</video>
 
 ### Data&Code
 Comming soon...
